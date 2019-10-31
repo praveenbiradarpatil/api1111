@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Api.Posttweet"/>
+      <class name="Api.Blockuser"/>
+      <class name="Api.Tweeterserach"/>
+      <class name="Api.Listallusers"/>
+      <class name="Api.Twitter"/>
+      <class name="Api.Twittertrends"/>
+      <class name="Api.Wheather"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
